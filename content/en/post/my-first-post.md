@@ -2,6 +2,7 @@
 title: "Degoogle android"
 date: 2021-01-28T15:27:03+05:30
 draft: false
+description: "De google"
 image: "images/degoogle.png"
 ---
 
