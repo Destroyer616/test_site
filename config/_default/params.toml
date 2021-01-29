@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "KTT"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Providing tech tips to masses."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -56,14 +56,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Saikiran Reddy"
+email = "saikiran.reddy916@gmail.com"
+whoami = "Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Hyderabad, India"
+organization = "Home"
+link = ""
 
 # sidebar
 enableBio = true

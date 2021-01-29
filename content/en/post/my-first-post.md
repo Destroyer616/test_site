@@ -16,7 +16,7 @@ image: "images/degoogle.png"
 
 ### Research done before degoogling
 
-Searched for the alternatives of google apps like google drive, google maps, google keep, Gmail etc.
+Finding alternatives of google apps like google drive, google maps, google keep, Gmail etc.
 
 And with the help of FOSS, opensource projects and many privacy, security respecting projects and companies i have found decent alternatives to the above
 applications.
